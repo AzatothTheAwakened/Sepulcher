@@ -29,9 +29,9 @@ Heals:
 - Tranq: Blechmann(3min/8s)
 
 # Aufmerksamer Wächter
-Sollte relativ einfach sein, nicht viele Mechaniken, aber Damagerace am Ende.
-3 Phasen. (100%, 40%, 15%)
-Auch wenn viele Adds am Anfang da sind, wichtig ist das **Singletarget-Damagerace ab 15%**.
+- Sollte relativ einfach sein, nicht viele Mechaniken, aber Damagerace am Ende.
+- 3 Phasen. (100%, 40%, 15%)
+- Auch wenn viele Adds am Anfang da sind, wichtig ist das **Singletarget-Damagerace ab 15%**.
 
 ## Wichtige Mechaniken
 - Ab 15% Damagerace
@@ -456,3 +456,83 @@ Option 2:
 - **Tanks** bewegt euch, nicht stacken
 - **Heiler** aufwärmen, das wird heftig
 - **DDs** aufmerksam auf Umgebung sein, weit gespreaded sein
+
+
+# Anduin
+- Chaotisch
+- **Kampfrausch** in einer der Zwischenphasen weil DMG-Buff
+
+## Vorab
+- 2 gleiche Gruppen
+- HardCCs einplanen für spätere Phase
+
+## P1 Wichtige Mechaniken
+### Cone
+- Abwechselnt beide **Gruppen** einmal soaken 
+- Soakgruppen sind in andere Phase
+- Großes add tanken + töten
+- 4 Kleine Adds töten
+- 4 Adds in der Mitte heilen (**HC erst dispellen bevor heilen -> Priester Massdispell**)
+- Wichtig ist mindestens: Großes Add stirbt + 6 von 8 Adds müssen getötet/geheilt werden
+
+### Partner Finden
+- Gelbe und schwarze debuffs
+- zwei unterschiedliche müssen sich treffen um zu entfernen
+- nicht viel Zeit
+- **treffen sich zwei gleiche Debuffs, wiped der Raid**
+- **Gelb bleibt stehen**
+- **Schwarz sucht einen Partner**
+
+### Pfeile
+- Silberner Pfeil überm Kopf
+- Aus dem Raid rauslaufen
+- Mechanik ist wie ein Boomerang, fliegt weg und kommt zurück
+
+### Healkuppel
+- Kuppelspawned, die nach 25s explodiert und raid wiped
+- Kuppel wird zerstört durch Spieler heilen, die in der Kuppel stehen
+- **Alle Spieler** in die Kuppel
+- **Heiler**, jeder Spieler in der Kuppel erhält 75% weniger Heilung -> Healcds
+
+## Zwischenphase 1
+- ****Alle Spieler** 200% dmg buff -> Kampfrausch
+- **Heiler** der Raid bekommt 90% weniger Schaden ab -> Damage tunneln
+- **DDs** Auf HC kommt extra Add, cleven und auf Boss bleiben. Ab 30% hardfocussen ähnlich wie Steingargoyles bei vorletztem Boss Nathria
+
+## P2 Wichtige Mechaniken
+- generell so wie **P1 ohne Partnerfinden**
+- Dafür aber **stationäre Adds**
+
+### Stationäre Adds
+- Vorab festlegen wer welches Add Hardcc
+- Boss an Adds vorbei ziehen
+- ggf. zweites Add rangrippen, soll gefährlich sein.
+- **Adds kicken**
+- **HC: Pfeile aus P1 heilen Adds** -> immer so laufen, dass hinter sich kein Add ist
+
+## Zwischenphase 2
+- gleich wie P1
+- zusätzliche Mechanik: Wände
+
+### Wände
+- Geister schweben wie Wände durch den Raum, so wie beim 11Meter im Fußball
+- Rand des Raumes ist generell sicherer
+- **Tanks** zieht den Boss hier am Rand vorbei
+- **DDs** achtsam sein und ggf nahe Boss bleiben
+
+## Phase 3 wichtige Mechaniken
+- Wie **P2 aber ohne stationäre Adds**
+- Neue Mechanik: **Ring in der Mitte**
+
+### Ring in der Mitte
+- Alle Spieler bekommen Schwarzen Debuff aus P1
+- Berühren wiped immernoch den Raid
+- in der Mitte ist ein großer Ring der Debuffs entfernt
+- jedes entfernen macht einen stackbaren 3s dot auf den gesamten raid
+- koordiniert abstacken, Namen werden gerufen + mündlicher countdown
+
+## Heiler
+- Hoffnungsbrecher, ein moderater Hit abundzu während dem Kampf
+- in P3 ist Hoffnungsbrecher ein channel der mehrere male direkt hintereinander Damage macht -> Healcds
+- P3 generell ist Damagerace, also gute Heilung ist gefragt
+- Im gesamten Kampf kriegen mehrere nen Dot ab -> erfordert Spotheilung
