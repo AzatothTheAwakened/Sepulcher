@@ -386,6 +386,14 @@ Option 2:
 - P3 ist anders
 - Zwischen Phasen gibt es Zwischenphasen die immer gleich sind
 
+## Was hat gut funktioniert?
+- Erste Phase so viel DMG drücken, dass wir kein Schild haben
+- Bei erster intermission anfang roaren
+- In erster intermission ein healcd
+- P2 Schild Roar + Healcd war gut
+- In intermission vor die Schubser laufen gut
+- In intermission Hexergate um über Schubser zu springen gut
+
 ## P1, P2 wichtige Mechaniken
 ### Bossabsorb
 - Boss hat 3 Stacks eines Absorbs
